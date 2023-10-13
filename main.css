@@ -1,0 +1,98 @@
+.mineral_card{
+    border-style: solid;
+    border-radius: 10px;
+    padding: 15px;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+    margin: 15px;
+    padding: 15px;
+    
+}
+
+.photo0{
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Amethyst2.JPG/1280px-Amethyst2.JPG) center no-repeat;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 20px purple ;
+}
+.photo1{
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Quartz_Saint_Lary_Ari%C3%A8ge.jpg/800px-Quartz_Saint_Lary_Ari%C3%A8ge.jpg) center no-repeat;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 20px white ;
+}
+.photo2{
+    background: url(https://upload.wikimedia.org/wikipedia/commons/4/4a/Tigers-Eye.jpg) center no-repeat;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 20px gold ;
+}
+.photo3{
+    background: url(https://upload.wikimedia.org/wikipedia/commons/8/80/Onyx.jpg) center no-repeat;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 20px black ;
+}
+.photo4{
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Quartz_Br%C3%A9sil.jpg/1024px-Quartz_Br%C3%A9sil.jpg) center no-repeat;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
+.photo5{
+    background: url(https://upload.wikimedia.org/wikipedia/commons/1/10/Bilde_087.jpg) center no-repeat;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 20px palevioletred ;
+}
+.half{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.half2{
+    max-width: 450px;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+.place{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.mai{
+    background-color: gray;
+    margin: 20pt;
+    
+}
+.shrift{
+    font-size: larger;
+    flex-wrap: wrap;
+}
+.H{
+    text-align: center;
+}
