@@ -1,9 +1,22 @@
-.mineral_card{
-    border-style: solid;
+.MecDif1{
+    border-style: none;
     border-radius: 10px;
     padding: 15px;
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 580px;
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+    margin: 15px;
+    padding: 15px;
+    
+}
+.MecDif{
+    border-style: none;
+    border-radius: 10px;
+    padding: 15px;
+    width: 400px;
+    height: 700px;
     text-align: center;
     font-style: italic;
     font-size: large;
@@ -13,34 +26,34 @@
 }
 
 .photo0{
-    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Amethyst2.JPG/1280px-Amethyst2.JPG) center no-repeat;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/6/66/NAMA_Machine_d%27Anticythère_1.jpg?uselang=ru) center no-repeat;
     width: 200px;
     height: 200px;
     background-size: cover;
     margin-left: auto;
     margin-right: auto;
-    box-shadow: 0 0 20px purple ;
+    box-shadow: 0 0 20px black ;
 }
 .photo1{
-    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Quartz_Saint_Lary_Ari%C3%A8ge.jpg/800px-Quartz_Saint_Lary_Ari%C3%A8ge.jpg) center no-repeat;
-    width: 200px;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Arts_et_Metiers_Pascaline_dsc03869.jpg/800px-Arts_et_Metiers_Pascaline_dsc03869.jpg) center no-repeat;
+    width: 350px;
     height: 200px;
     background-size: cover;
     margin-left: auto;
     margin-right: auto;
-    box-shadow: 0 0 20px white ;
+    box-shadow: 0 0 20px black ;
 }
 .photo2{
-    background: url(https://upload.wikimedia.org/wikipedia/commons/4/4a/Tigers-Eye.jpg) center no-repeat;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/BabbageDifferenceEngine.jpg/350px-BabbageDifferenceEngine.jpg) center no-repeat;
     width: 200px;
     height: 200px;
     background-size: cover;
     margin-left: auto;
     margin-right: auto;
-    box-shadow: 0 0 20px gold ;
+    box-shadow: 0 0 20px black ;
 }
 .photo3{
-    background: url(https://upload.wikimedia.org/wikipedia/commons/8/80/Onyx.jpg) center no-repeat;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/5/5c/Curta01.JPG) center no-repeat;
     width: 200px;
     height: 200px;
     background-size: cover;
@@ -49,22 +62,14 @@
     box-shadow: 0 0 20px black ;
 }
 .photo4{
-    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Quartz_Br%C3%A9sil.jpg/1024px-Quartz_Br%C3%A9sil.jpg) center no-repeat;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/5/5a/MONIACdashboard.jpg) center no-repeat;
     width: 200px;
     height: 200px;
     background-size: cover;
     margin-left: auto;
     margin-right: auto;
 }
-.photo5{
-    background: url(https://upload.wikimedia.org/wikipedia/commons/1/10/Bilde_087.jpg) center no-repeat;
-    width: 200px;
-    height: 200px;
-    background-size: cover;
-    margin-left: auto;
-    margin-right: auto;
-    box-shadow: 0 0 20px palevioletred ;
-}
+
 .half{
     display: flex;
     flex-direction: row;
@@ -85,7 +90,7 @@
     justify-content: space-evenly;
 }
 .mai{
-    background-color: gray;
+    background-color: black;
     margin: 20pt;
     
 }
